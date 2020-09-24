@@ -1,0 +1,6 @@
+[submodule "liba"]
+	path = liba
+	url = https://github.com/r70kg/liba.git
+[submodule "libb"]
+	path = libb
+	url = https://github.com/r70kg/libb.git
